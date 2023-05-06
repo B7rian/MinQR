@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MinQR</string>
+    <string name="title_activity_scan">FullscreenActivity</string>
+    <string name="title_activity_main">MainActivity</string>a
+    <string name="button_ok">OK</string>
+    <string name="msg_intent_failed">Sorry, this QR code is not supported!</string>
+    <string name="result_uri">Result</string>
+    <string name="result_text">Result</string>
+</resources>
